@@ -1,0 +1,22 @@
+{
+  "name": "custom-spinner",
+  "version": "1.0.0",
+  "description": "Custom log add spinner with ease-out motion",
+  "main": "spinner.js",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-spinners": "^3.2.0"
+  },
+  "keywords": [
+    "spinner",
+    "cli",
+    "terminal",
+    "loading"
+  ],
+  "author": "",
+  "license": "MIT"
+}
